@@ -33,5 +33,5 @@ A beautifully crafted e-commerce website for flower enthusiasts. **Floristly** o
 
 ## Screenshots
 
-![App Screenshot](https://github.com/shekhfaisal2110/Floristly/blob/12161539365405d162aca987f8eb9491dd4c0543/file/1.png)
+![App Screenshot]()
 
